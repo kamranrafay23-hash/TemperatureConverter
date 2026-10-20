@@ -10,7 +10,7 @@ celsius = float(input("Temperature in Celsius: "))
 # Convert to Kelvin
 kelvin= celsius + 273
 # Convert to Fahrenheit
-fahrenheit = celsius * 9 / 5 + 32
+fahrenheit = celsius * (9 / 5) + 32
 
 # Show the result
 print("Fahrenheit:", fahrenheit)
